@@ -1,10 +1,10 @@
 # Foodie-Express
 
 Team Members 
+ -Dhanavath Balaji
 
 -Damera Ashan Raj
 
--Takkelapati Shaik Jani Saida
 
 Web-based service that allows customers to simply access menu of a restaurant, and get food delivered to
 their address. Developed using React.js and Firebase for fetching food items and order conformaton.
